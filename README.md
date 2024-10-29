@@ -1,12 +1,6 @@
 ## Hi there 👋
 
-<div align="center">
-  <p>Hello, I'm</p>
-
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=1&pause=1000&color=4775F7&center=true&vCenter=true&repeat=false&width=500&lines=OwenStuckman)](https://git.io/typing-svg)
-
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=4775F7&vCenter=true&width=500&lines=Full-Stack+Web+and+App+Developer+;always+improving+and+learning+new+skills)](https://git.io/typing-svg)
-</div>
+# I am Owen Stuckman
 
 
 
