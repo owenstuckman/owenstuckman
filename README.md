@@ -12,6 +12,8 @@ Check out my [personal website](https://owenstuckman.co) for more on my skills a
 
 </div>
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=owenstuckman)](https://github.com/owenstuckman/github-readme-stats)
+
 <!--
 Here are some ideas to get you started:
 
