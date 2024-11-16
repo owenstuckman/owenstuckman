@@ -5,7 +5,7 @@
 
 
 ---
-Check out my [personal website](https://owenstuckman.co) for more on my skills and projects
+Check out my [personal website](https://owenstuckman.co) for more on my skills and projects!
 
 
 <div align = 'center'>
