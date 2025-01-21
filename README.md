@@ -14,8 +14,6 @@ Check out my [personal website](https://owenstuckman.co) for more on my skills a
 
 </div>
 
-
-
 <!--
 Here are some ideas to get you started:
 
