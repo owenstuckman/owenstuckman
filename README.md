@@ -10,9 +10,9 @@ Check out my [personal website](https://owenstuckman.co) for more on my skills a
 
 <div align = 'center'>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=owenstuckman&theme=gruvbox&border_radius=6.3" alt="GitHub Streak" /></a>
-
-
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owenstuckman&hide=ShaderLab,HLSL&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 Here are some ideas to get you started:
